@@ -1,0 +1,8 @@
+C:\Development\solidpractice2\WithRefactoring\obj\Debug\WithRefactoring.csprojResolveAssemblyReference.cache
+C:\Development\solidpractice2\WithRefactoring\bin\Debug\WithRefactoring.exe.config
+C:\Development\solidpractice2\WithRefactoring\bin\Debug\WithRefactoring.exe
+C:\Development\solidpractice2\WithRefactoring\bin\Debug\WithRefactoring.pdb
+C:\Development\solidpractice2\WithRefactoring\bin\Debug\Newtonsoft.Json.dll
+C:\Development\solidpractice2\WithRefactoring\bin\Debug\Newtonsoft.Json.xml
+C:\Development\solidpractice2\WithRefactoring\obj\Debug\WithRefactoring.exe
+C:\Development\solidpractice2\WithRefactoring\obj\Debug\WithRefactoring.pdb

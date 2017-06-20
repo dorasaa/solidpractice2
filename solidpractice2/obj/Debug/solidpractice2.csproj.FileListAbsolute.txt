@@ -1,0 +1,8 @@
+C:\Development\solidpractice2\solidpractice2\bin\Debug\solidpractice2.exe.config
+C:\Development\solidpractice2\solidpractice2\obj\Debug\solidpractice2.csprojResolveAssemblyReference.cache
+C:\Development\solidpractice2\solidpractice2\bin\Debug\solidpractice2.exe
+C:\Development\solidpractice2\solidpractice2\bin\Debug\solidpractice2.pdb
+C:\Development\solidpractice2\solidpractice2\bin\Debug\Newtonsoft.Json.dll
+C:\Development\solidpractice2\solidpractice2\bin\Debug\Newtonsoft.Json.xml
+C:\Development\solidpractice2\solidpractice2\obj\Debug\solidpractice2.exe
+C:\Development\solidpractice2\solidpractice2\obj\Debug\solidpractice2.pdb

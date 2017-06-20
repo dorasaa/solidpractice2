@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SingleResponsibility
+{
+    public class Voucher
+    {
+
+        //public string Title { get;  set; }
+        //public string Text { get; set; } 
+
+        public string VoucherNumber { get; set; }
+        public string Iso { get; set; }
+        public string VoucherPart { get; set; }
+        public string RefundChoice { get; set; }
+    }
+}

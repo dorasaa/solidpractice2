@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solidpractice2", "solidpractice2\solidpractice2.csproj", "{979F7FC2-0640-4216-8A91-4D3F9890482E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithRefactoring", "WithRefactoring\WithRefactoring.csproj", "{56FB2D5C-2474-41AA-9AF6-FA03F09077B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibility", "SingleResponsibility\SingleResponsibility.csproj", "{E6FB8A34-0193-43C3-BD2F-69D23A1A6EC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{979F7FC2-0640-4216-8A91-4D3F9890482E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979F7FC2-0640-4216-8A91-4D3F9890482E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979F7FC2-0640-4216-8A91-4D3F9890482E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979F7FC2-0640-4216-8A91-4D3F9890482E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56FB2D5C-2474-41AA-9AF6-FA03F09077B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FB2D5C-2474-41AA-9AF6-FA03F09077B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FB2D5C-2474-41AA-9AF6-FA03F09077B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FB2D5C-2474-41AA-9AF6-FA03F09077B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6FB8A34-0193-43C3-BD2F-69D23A1A6EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FB8A34-0193-43C3-BD2F-69D23A1A6EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FB8A34-0193-43C3-BD2F-69D23A1A6EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FB8A34-0193-43C3-BD2F-69D23A1A6EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
