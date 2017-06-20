@@ -2,10 +2,9 @@
 
 namespace SingleResponsibility
 {
-    public  class DocumentStorage : IDocumentStorage
+    public class DocumentStorage 
     {
-
-        public   string GetData(string srcfile)
+        public string GetData(string srcfile)
         {
             string input;
             using (var stream = File.OpenRead(srcfile))

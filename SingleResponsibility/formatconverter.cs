@@ -8,19 +8,21 @@ namespace SingleResponsibility
 {
     public class formatconverter
     {
-        readonly IDocumentStorage _documentStorage;
+        readonly DocumentStorage _documentStorage;
          readonly InputParser _inputparser;
         readonly documentSerializer _documentSerializer;
         public formatconverter()
-        { }
+        {
+           _documentStorage=  new DocumentStorage();
+            _inputparser = new InputParser();
+            _documentSerializer = new documentSerializer();
+
+        }
 
         public bool ConvertFormat(string src, string dest)
         {
             //Read
-            
-
-
-            string input;
+             string input;
             try
             {
                 //Reads xml string
@@ -31,12 +33,9 @@ namespace SingleResponsibility
             var doc = _inputparser.ParseInput(input);
 
             //Serialize voucher object to json text
-            var SerializedDoc = _documentSerializer.serialize(doc);
-
-
+            var SerializedDoc = _documentSerializer.serialize(doc); 
             //save the output
-
-            _documentStorage.SaveData(dest, SerializedDoc);
+             _documentStorage.SaveData(dest, SerializedDoc);
                 return true;
             }
             catch (Exception ex)
