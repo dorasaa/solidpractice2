@@ -1,0 +1,8 @@
+C:\Development\solidpractice2\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.csprojResolveAssemblyReference.cache
+C:\Development\solidpractice2\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.exe.config
+C:\Development\solidpractice2\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.exe
+C:\Development\solidpractice2\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.pdb
+C:\Development\solidpractice2\OpenClosePrinciple\bin\Debug\Newtonsoft.Json.dll
+C:\Development\solidpractice2\OpenClosePrinciple\bin\Debug\Newtonsoft.Json.xml
+C:\Development\solidpractice2\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.exe
+C:\Development\solidpractice2\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.pdb

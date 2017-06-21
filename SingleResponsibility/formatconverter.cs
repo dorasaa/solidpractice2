@@ -11,14 +11,18 @@ namespace SingleResponsibility
         readonly DocumentStorage _documentStorage;
          readonly InputParser _inputparser;
         readonly documentSerializer _documentSerializer;
-        public formatconverter()
+        private DocumentStorage documentStorage;
+        private InputParser inputParser;
+        private documentSerializer documentSerializer;
+
+        public formatconverter()  
         {
-           _documentStorage=  new DocumentStorage();
-            _inputparser = new InputParser();
-            _documentSerializer = new documentSerializer();
 
+            this.documentStorage = new DocumentStorage();
+            this.inputParser = new InputParser();
+            this.documentStorage= new DocumentStorage();
         }
-
+         
         public bool ConvertFormat(string src, string dest)
         {
             //Read
